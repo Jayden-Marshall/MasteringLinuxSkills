@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
- In the final phase of the THM Linux Fundamentals journey, I delved into intermediate Linux skills crucial for becoming a proficient penetration tester. This walkthrough served as a comprehensive guide to mastering automation, package management, logging, and more, empowering me with the knowledge to navigate Linux intricacies for cybersecurity endeavors.
+ In the final phase of the THM Linux Fundamentals journey, I dove into intermediate/advanced Linux skills crucial for becoming a proficient penetration tester. This walkthrough served as a comprehensive guide to mastering automation, package management, logging, and more, empowering me with the knowledge to navigate Linux intricacies for cybersecurity endeavors.
 
 
 <h2>Achievements:</h2>
