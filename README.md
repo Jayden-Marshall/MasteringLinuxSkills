@@ -1,4 +1,4 @@
-<h1>Network Services & Vulnerability Lab</h1>
+<h1>Mastering Linux</h1>
 
 <h2>Description</h2>
 
